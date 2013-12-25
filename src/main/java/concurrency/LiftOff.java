@@ -1,4 +1,4 @@
-package main.concurrency;
+package main.java.concurrency;
 
 public class LiftOff implements Runnable {
     protected int countDown = 10;

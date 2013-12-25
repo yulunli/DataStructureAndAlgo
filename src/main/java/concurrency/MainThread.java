@@ -1,4 +1,4 @@
-package main.concurrency;
+package main.java.concurrency;
 
 public class MainThread {
     public static void main(String[] args) {

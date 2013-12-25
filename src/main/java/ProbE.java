@@ -1,4 +1,4 @@
-package main;
+package main.java.concurrency;
 
 import java.util.ArrayList;
 import java.util.HashMap;
