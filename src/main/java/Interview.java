@@ -1,4 +1,4 @@
-package main.java.concurrency;
+package main.java;
 
 public class Interview {
 

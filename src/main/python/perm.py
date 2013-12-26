@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import copy
 
 def perm(obj_list):
